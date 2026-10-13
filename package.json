@@ -1,0 +1,13 @@
+{
+  "name": "hello-world-cpanel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal Hello World for cPanel AI App Hosting",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
